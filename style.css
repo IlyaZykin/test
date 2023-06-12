@@ -1,0 +1,28 @@
+.cnt {
+    text-align: center;
+}
+.pdd {
+    padding: 15px;
+}
+.ftp{
+  width: 150px;
+    height: 150px;
+    background-color: #21F039;
+    margin-top: 50px;
+    margin-left: 200px;
+    cursor: pointer;
+    border-radius: 75px;
+    border: 2px solid #077014;
+    font-size: 72px;  
+}
+.block01 {
+    width: 200px;
+    height: 200px;
+    background-color: #2A4BF0;
+    margin-top: 50px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+.block02 {
+    border-radius: 100px;
+} 
